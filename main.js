@@ -2,7 +2,7 @@ song = "";
 
 function preload()
 {
-	song = loadSound("music.mp3");
+	song = loadSound("фрози (frozy), Tomo - Islands (kompa pasión) (Official Audio).mp3");
 }
 
 scoreRightWrist = 0;
